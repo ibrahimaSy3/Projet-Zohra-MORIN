@@ -21,3 +21,28 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
+
+.img-1 {
+    height: 400px;
+    width: 500px;
+}
+
+.img-2 {
+    height: 360px;
+    width: 500px;
+}
+
+.img-3 {
+    height: 600px;
+}
+.img-4 {
+    height:600px;
+}
+
+.text-size{
+    font-size: 22px;
+}
+
+.card-img-top {
+    width: 500px;
+}
