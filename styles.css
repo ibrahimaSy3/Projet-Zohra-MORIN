@@ -23,22 +23,28 @@
 }
 
 .img-1 {
-    height: 400px;
+    height: 300px;
     width: 500px;
 }
 
 .img-2 {
-    height: 360px;
+    height: 300px;
     width: 500px;
 }
 
 .img-3 {
-    height: 600px;
+    height: 300px;
+    width: 500px;
 }
 .img-4 {
-    height:600px;
+    height:300px;
+    width: 500px;
 }
 
+.img-5{
+    height:300px;
+    width:500px;
+}
 .text-size{
     font-size: 22px;
 }
