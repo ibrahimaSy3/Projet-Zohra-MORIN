@@ -43,7 +43,7 @@
 
 .img-5{
     height:300px;
-    width:500px;
+    width:920px;
 }
 .text-size{
     font-size: 22px;
@@ -51,4 +51,17 @@
 
 .card-img-top {
     width: 500px;
+}
+
+.mrgn-rgt {
+padding-right: 16rem;
+}
+
+.mrgn-lft {
+    padding-right: 7rem;
+}
+
+footer {
+    display : table-row;
+    height: 100px;
 }
