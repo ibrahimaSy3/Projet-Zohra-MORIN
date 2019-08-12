@@ -19,7 +19,7 @@
 
 .finality{
     margin: 24px;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .w-100 {
@@ -63,7 +63,7 @@
 }
 
 .mrgn-rgt {
-padding-right: 16rem;
+    padding-right: 16rem;
 }
 
 .mrgn-lft {
@@ -86,6 +86,13 @@ h2{
 }
 .coaching{
     margin: 16px;
+}
 
+body{
+    font-family: 'M PLUS 1p', sans-serif;
+}
 
+.girl{
+    height: 270px;
+    margin-left: 30%;
 }
