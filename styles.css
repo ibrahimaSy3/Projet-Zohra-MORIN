@@ -31,7 +31,7 @@
     padding-bottom: 2rem;
 }
 
-.img-1 {
+.img-donner {
     height: 300px;
     width: 100%;
 }
@@ -41,7 +41,7 @@
     width: 100%;
 }
 
-.img-3 {
+.img-cote {
     height: 300px;
     width: 100%;
 }
@@ -49,6 +49,8 @@
     height:300px;
     width: 100%;
 }
+
+
 
 .img-5{
     height:300px;
@@ -96,5 +98,7 @@ body{
     height: 270px;
     margin:53px;
     margin-top:2px;
+    margin-left: -26px;
+
 
 }
